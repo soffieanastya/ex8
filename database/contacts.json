@@ -1,0 +1,23 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Gio",
+      "phoneNumber": "089999999999",
+      "address": "Jl. jalan bumi",
+      "birthday": "12 October 2000"
+    },
+    {
+      "id": "2",
+      "name": "Soffie",
+      "phoneNumber": "089999999988",
+      "address": "Jl. jalan-jalan matahari",
+      "birthday": "12 October 2000"
+    },
+    {
+      "name": "halo",
+      "phoneNumber": "111",
+      "id": "3"
+    }
+  ]
+}
